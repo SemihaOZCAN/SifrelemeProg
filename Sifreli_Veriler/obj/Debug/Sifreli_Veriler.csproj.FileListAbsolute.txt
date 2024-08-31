@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\Sifreli_Veriler\Sifreli_Veriler\bin\Debug\Sifreli_Veriler.exe.config
+C:\Users\Semiha\Desktop\Sifreli_Veriler\Sifreli_Veriler\bin\Debug\Sifreli_Veriler.exe
+C:\Users\Semiha\Desktop\Sifreli_Veriler\Sifreli_Veriler\bin\Debug\Sifreli_Veriler.pdb
+C:\Users\Semiha\Desktop\Sifreli_Veriler\Sifreli_Veriler\obj\Debug\Sifreli_Veriler.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\Sifreli_Veriler\Sifreli_Veriler\obj\Debug\Sifreli_Veriler.Form1.resources
+C:\Users\Semiha\Desktop\Sifreli_Veriler\Sifreli_Veriler\obj\Debug\Sifreli_Veriler.Properties.Resources.resources
+C:\Users\Semiha\Desktop\Sifreli_Veriler\Sifreli_Veriler\obj\Debug\Sifreli_Veriler.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\Sifreli_Veriler\Sifreli_Veriler\obj\Debug\Sifreli_Veriler.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\Sifreli_Veriler\Sifreli_Veriler\obj\Debug\Sifreli_Veriler.exe
+C:\Users\Semiha\Desktop\Sifreli_Veriler\Sifreli_Veriler\obj\Debug\Sifreli_Veriler.pdb

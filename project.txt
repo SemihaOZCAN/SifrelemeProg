@@ -1,0 +1,6 @@
+ŞİFRELEME PROGRAMI
+******************************
+Bu uygulama, verileri şifreleyip veritabanına kaydetmenizi ve şifrelenmiş verileri çözmenizi sağlar.
+ Kullanıcı ad, soyad, mail, şifre ve hesap numarasını Base64 formatında şifreleyip veritabanına ekler. 
+Ayrıca, şifrelenmiş verileri çözerek kullanıcıya gösterir. 
+Program, veri yönetimi için Windows Forms kullanır ve DataGridView ile verileri görüntüler.
